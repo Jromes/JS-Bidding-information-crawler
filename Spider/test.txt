@@ -1,0 +1,507 @@
+<html lang="zh-CN"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+	<meta name="SiteName" content="南京市公共资源交易平台">
+    <meta name="SiteDomain" content="http://njggzy.nanjing.gov.cn">
+    <meta name="SiteIDCode" content="3201000077">
+    <meta name="ColumnName" content="服务类">
+	<meta name="ColumnType" content="">
+	<meta name="ArticleTitle" content="（浦口分中心）江北环保产业园九峰山路建设工程项目监理招标公告">
+	<meta name="PubDate" content="2020-05-20 17:26:18">
+	<meta name="ContentSource" content="南京市公共资源交易中心">
+	<meta name="Keywords" content="">
+	<meta name="Author" content="">
+	<meta name="Description" content="">
+	<meta name="Url" content="http://njggzy.nanjing.gov.cn/njweb/fjsz/068001/068001001/20200520/c78950ec-fe7a-4d49-9f66-07ea4af3eb66.html">
+			<title>南京市公共资源交易平台</title>
+    <link rel="stylesheet" href="/njweb/css/common.css">
+	<link rel="stylesheet" href="/njweb/css/article-page.css">
+    <link rel="stylesheet" href="/njweb/css/dealCourse.css">
+    <script src="https://hm.baidu.com/hm.js?954d9389eb50ccb1d6b199af137f0edd"></script><script src="/njweb/js/lib/jquery-1.11.0.min.js"></script>
+	<script src="/njweb/js/webBuilderCommon.js"></script>
+
+   <link rel="stylesheet" href="/njweb/css/webBuilderCommonGray.css"><script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=442205"></script><link rel="stylesheet" href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css"></head>
+<body>
+	<!-- <div id="LoadingBar"><img src="/njwebimages/loading.gif"></div> -->
+	<!-- header -->
+	<div id="header"><!-- header -->
+<div class="ewb-header">
+   	<div class="ewb-container">
+   	    <div class="ewb-row">
+            <!-- logo -->
+   	        <div class="ewb-logo l">
+   	            <a href="/njweb/"><img src="/njweb/images/logo.png" alt=""></a>
+   	        </div>
+            <div class="ewb-hdr r">
+                <div class="clearfix">
+                    <div class="ewb-hdr-link r">
+                        <a href="http://njggzy.nanjing.gov.cn/epointbidder" target="_blank" class="l">登录</a><span class="ewb-hdr-sp l">丨</span><a href="http://njggzy.nanjing.gov.cn/epointbidder/huiyuaninfomis2/pages/huiyuanregister/register" target="_blank" class="l">注册</a><span class="ewb-hdr-sp l">丨</span><a href="/njweb/" class="l">回到首页</a>
+                        <span class="ewb-hdr-sp l">丨</span>
+						
+									<a href="/njweb/jyfw/079009/20151125/9f7fc16b-ad35-4d48-94a8-e3cf5c9104b2.html" class="ewb-hdr-hotline l" target="_blank">咨询热线</a>                    
+								<span class="ewb-hdr-sp l">丨</span>
+						
+									<a href="/njweb/jyfw/079001/workGuide.html" class="l">场所指引</a>                    
+								</div>
+                </div>
+                <div class="clearfix">
+                    <div class="ewb-hdr-search r">
+                        <input type="text" class="ewb-hdr-txt l" value="请输入关键字查询" id="qwjs" onfocus="if(this.value=='请输入关键字查询'){this.value=''}" onblur="if(this.value==''){this.value='请输入关键字查询'}">
+                        <button type="button" class="ewb-hdr-btn l" onclick="searchqwjs();"></button>
+                    </div>
+                </div>
+            </div>
+   	    </div>
+   	</div>
+</div>
+<div class="ewb-container">
+	
+				<a href="/njweb/jywkd/tradeMicroExpress.html">
+					<img src="/njweb/images/banner01.jpg" id="njthpc" style="display:none;">
+				</a>
+			</div>
+<!-- nav -->
+<div class="ewb-nav ewb-container">
+    <ul class="ewb-row">
+		
+		<li class="l">
+				 
+										<a href="/njweb/fjsz/buildService1.html" class="ewb-n-link ewb-n-icon2 " style="color: #fff;border-top: 1px solid #f69929;border-bottom: 4px solid #e28722;background: url(/njweb/images/nav_icon2h.png) 67px 10px no-repeat;background-color: #f69929;">房建市政</a> 
+										</li>
+		
+		<li class="l">
+			
+										<a href="/njweb/gchw/goods.html" class="ewb-n-link ewb-n-icon4 ">工程货物</a> 
+										</li>
+		
+		<li class="l">
+			
+										<a href="/njweb/jtsw/traffic.html" class="ewb-n-link ewb-n-icon3 ">交通水务</a> 
+										</li>
+		
+        <li class="l">
+		 
+										<a href="/njweb/zfcg/goverPurchase.html" class="ewb-n-link ewb-n-icon1 ">政府采购</a> 
+										</li>
+        
+        
+        <li class="l">
+            
+										<a href="/njweb/gycq/stateProperty.html" class="ewb-n-link ewb-n-icon5 ">国有产权</a> 
+										</li>
+		
+        <li class="l">
+            
+										<a href="/njweb/tdkc/landmineral.html" class="ewb-n-link ewb-n-icon6 ">土地矿产</a> 
+										</li>
+        <li class="l">
+            
+										<a href="/njweb/tlhy/railway.html" class="ewb-n-link ewb-n-icon7 ">铁路航运</a> 
+										</li>
+        
+        <li class="ewb-last l">
+            
+										<a href="/njweb/fzx/fencenter.html" class="ewb-n-link ewb-n-icon8 ">分中心</a> 
+										</li>
+    </ul>
+</div>
+
+<script>
+	function searchqwjs(){
+		var qwjs = $("#qwjs").val();
+		if(qwjs&&qwjs!="请输入关键字查询"){
+			window.open("/njweb/search/fullsearch.html?wd="+encodeURIComponent(qwjs));
+		}else{
+			alert("关键词不能为空！");
+		}
+	}
+</script>
+<script src="/njweb/js/head.js"></script>
+
+</div>
+	<script type="text/javascript">
+        $("#header").load("/njweb/header.html");
+    </script>
+	<!-- main -->
+	<div class="ewb-container">
+		<div class="ewb-location">
+			<a href="/njweb/">首页</a>&gt;<a href="javascript:void(0);" style="cursor:text;">房建市政</a>&gt;<a href="javascript:void(0);" style="cursor:text;">招标公告</a>&gt; <a href="#"><span class="ewb-yellow" id="viewGuid" value="cms_c78950ec-fe7a-4d49-9f66-07ea4af3eb66">服务类</span></a></div>
+		<div class="ewb-main">
+			<div class="ewb-menu clearfix" style="min-height:390px">
+				 
+							<div class="article-info">
+								<h1>（浦口分中心）江北环保产业园九峰山路建设工程项目监理招标公告</h1>
+								<p class="info-sources">
+									<span style="font-size:14px;font-weight:bold;">
+										【信息发布时间：2020-05-20 17:26】
+									</span>
+									<span style="font-size:14px;font-weight:bold;">
+										【<a href="javascript:window.print();" style="color:#999;">我要打印</a>】
+									</span>
+									<span style="font-size:14px;font-weight:bold;">
+										【来源：南京市公共资源交易中心】
+									</span>
+								</p>
+								<div class="con" style="margin-top:31px;font-size:14px;line-height:28px;">
+									<table style="FONT-SIZE: 16pt;font-family:'Microsoft YaHei';" height="100%" valign="top">
+        <tbody>
+            <tr>
+                <td width="50%"></td>
+                <td width="50%"></td>
+            </tr>
+
+
+
+
+
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;color:#333;" colspan="2" align="center">
+                    <strong> 编号: BPK200123-01FG</strong>
+                </td>
+            </tr>
+            <tr id="\&quot;wj\&quot;"></tr>
+
+
+
+
+
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;color:#333; font-weight:bold;">
+                    1.&nbsp;招标条件
+                </td>
+            </tr>
+
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>南京江北环保产业发展有限公司</span>建设项目<span>江北环保产业园九峰山路建设工程项目监理</span>已经立项部门批准建设（立项批文号：<span>浦行审投字[2019]154号</span>）。工程所需资金来源<span>国有非政府性资金：38245.19万元</span>，现已落实。本工程对投标申请人的资格审查，采用<span>资格后审</span>方法选择合格的投标申请人参加投标。
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span>江苏中衡工程项目管理咨询有限公司</span>受招标人委托(或招标人)负责本工程的招标事宜。
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    2.&nbsp;项目概述与招标范围
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1&nbsp;标段名称：<span>监理</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2&nbsp;工程地点：<span>南京市浦口区</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; height: 22px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3&nbsp;工程类型：<span> 特大型工程</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4&nbsp;建设内容及规模：<span> 该项目拟实施道路、桥涵、排水、管线综合、交通安全设施、照明及景观等工程，道路等级为城市主干路，本次施工路段长度约2110米。</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5&nbsp;监理合同估算价：<span>272.77</span>万元（工程计费额按<span>17000.00</span>万元） </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.6&nbsp;监理及相关服务范围：
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;监理范围包括：<span>江北环保产业园九峰山路建设工程项目监理，具体包括：施工前期准备阶段，施工阶段，竣工验收阶段及保修阶段全过程监理，包含但不限于对工程进行进度、质量、投资、变更四控制，安全管理、合同管理、信息管理、工程资料管理，组织协调施工现场各方面关系，以及在工程实施过程中各种工程变更、索赔、验收及配合竣工结算、决算审计等均属于本监理范围等。</span></td>
+            </tr>
+            <tr>
+            </tr><tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其它阶段相关服务的范围包括：<span>/</span></td>
+            </tr>
+            <tr>
+            </tr><tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.7&nbsp;监理服务期：<span>365日历天</span> </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    3.&nbsp;投标人资格要求
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1&nbsp;投标人资质等级及范围：<span>市政公用工程甲级(含)以上。</span> </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2&nbsp;项目经理资质类别和等级：<span>
+国家注册监理师(含)以上并且市政公用工程(含)以上。</span> </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3&nbsp;本次招标是否接受联合体投标：否 </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4&nbsp;本次招标是否接受黄牌警示单位投标：否 </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    4.&nbsp;招标文件的获取
+                </td>
+            </tr>
+            <tr id="bcb"></tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1&nbsp;本公告发布之日起至投标截止之日止，凡有意参加投标者，请登录南京市公共资源交易中心网站（<span>njggzy.nanjing.gov.cn/njweb</span>）购买招标文件。 </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2&nbsp;招标文件下载费用100元，工具使用费最高100元，平台使用费最高100元 </td>
+            </tr>
+<tr>
+            <td colspan="2" align="left" style="line-height: 32px; font-size: 18px">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3&nbsp;递交投标文件的截止时间：2020-6-11            </td>
+        </tr>
+            <tr></tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    5.&nbsp;资格审查办法
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1&nbsp;对投标人的资格审查方法按照省市相关文件及有关法规文件的规定执行。 </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2&nbsp;本工程按照资审合格条件为： </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）具有独立订立合同的能力； </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）未处于被责令停业，投标资格被取消或者财产被接管，冻结和破产状态； </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）企业没有因骗取中标或者严重违约以及发生重大工程质量，安全生产事故等问题，被有关部门暂停投标资格并在暂停期内的； </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）企业的资质类别等级和总监的资质等级满足招标公告要求； </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）以联合体形式申请资格审查的，联合体的资格（资质）条件必须符合要求，并附有共同投标协议； </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）具有与本工程相类似项目的监理业绩。具体要求为：/</td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（7）符合法律、法规规定的其他条件。</td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    6.&nbsp;评标方法
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td style="FONT-SIZE: 18px">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </td>
+                                <td style="FONT-SIZE: 18px">本标段采用综合评估法。 </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td style="FONT-SIZE: 18px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                <td style="FONT-SIZE: 18px">6.1监理方案（满分10分）<br>（1）质量控制管理方案针对性强、要点明确、措施得当。满分2分(等级分：优：2；良：1.8；中：1.6；差：1.4；无：0)<br>（2）进度控制管理方案针对性强、要点明确、措施得当。满分2分(等级分：优：2；良：1.8；中：1.6；差：1.4；无：0)<br>（3）投资控制管理方案针对性强、要点明确、措施得当。满分2分(等级分：优：2；良：1.8；中：1.6；差：1.4；无：0)<br>（4）安全生产管理方案针对性强、要点明确、措施得当。满分1分(等级分：优：1；良：0.9；中：0.8；差：0.7；无：0)<br>（5）合同与信息管理方案针对性强、要点明确、措施得当。满分1分(等级分：优：1；良：0.9；中：0.8；差：0.7；无：0)<br>（6）施工现场组织协调方案针对性强、要点明确、措施得当。满分1分(等级分：优：1；良：0.9；中：0.8；差：0.7；无：0)<br>（7）针对本项目特点、难点和重点制定的措施针对性强，提出的合理化建议具体可行。满分1分(等级分：优：1；良：0.9；中：0.8；差：0.7；无：0)<br>6.2总监要求（满分6分）<br>总监为国家注册监理工程师且注册专业为市政公用工程的得6分（证书以"e路阳光"交易平台中的扫描件为准，专业以注册监理工程师证书注明的所学专业为准，2013年新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准）(满分6分)<br>6.3监理机构人员(其他人员)（满分20分）<br>（1）道路或桥梁专业监理工程师4名：具有国家注册监理工程师证书的得1分/人，同时具有其他工程类注册执业资格的加1分/人。（证书以"e路阳光"交易平台中的扫描件为准，专业以注册监理工程师证书注明的所学专业为准，2013年新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准。其他工程类注册执业资格：注册一级建筑师、注册一级结构工程师、注册土木工程师、注册造价工程师、一级注册建造师。以本单位注册证书为准）（满分8分）<br>（2）市政工程技术专业监理工程师1名: 具有国家注册监理工程师证书的得1分，同时具有其他工程类注册执业资格的加1分。（证书以"e路阳光"交易平台中的扫描件为准，专业以注册监理工程师证书注明的所学专业为准，2013年新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准。其他工程类注册执业资格：注册一级建筑师、注册一级结构工程师、注册土木工程师、注册造价工程师、一级注册建造师。以本单位注册证书为准）（满分2分）<br>（3）测绘工程技术专业监理工程师2名：具有国家注册监理工程师证书的得1分/人，同时具有其他工程类注册执业资格的加1分/人。（证书以"e路阳光"交易平台中的扫描件为准，专业以注册监理工程师证书注明的所学专业为准，2013年新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准。其他工程类注册执业资格：注册一级建筑师、注册一级结构工程师、注册土木工程师、注册造价工程师、一级注册建造师。以本单位注册证书为准）（满分4分）<br>（4）地质或岩土专业监理工程师1名：具有国家注册监理工程师证书的得1分，同时具有其他工程类注册执业资格的加1分。（证书以"e路阳光"交易平台中的扫描件为准，专业以注册监理工程师证书注明的所学专业为准，2013年新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准。其他工程类注册执业资格包括：注册一级建筑师、注册一级结构工程师、注册土木工程师、注册造价工程师、一级注册建造师。以本单位注册证书为准）（满分2分）<br>（5）工程监理与质量检测专业监理工程师1名：具有国家注册监理工程师证书的得1分，同时具有其他工程类注册执业资格的加1分。（证书以"e路阳光"交易平台中的扫描件为准，专业以注册监理工程师证书注明的所学专业为准，2013年新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准。其他工程类注册执业资格：注册一级建筑师、注册一级结构工程师、注册土木工程师、注册造价工程师、一级注册建造师。以本单位注册证书为准）（满分2分）<br>（6）安全工程专业监理工程师2名：具有国家注册监理工程师得1分/人。（证书均以“e路阳光”交易平台中的扫描件为准，专业以注册监理工程师证书上所学专业为准，新版国家注册监理工程师无所学专业一栏的，所学专业以毕业证书上为准。）（满分2分）<br>6.4投标报价（满分50分）<br>（1）本工程监理服务费投标报价最高限价为272.77万元，投标人投标报价不得超过最高限价，否则作无效标处理。<br>（2）评标基准价计算方法：<br>方法四：以有效投标文件的投标报价算术平均值为A,最高投标限价为B,则: 评标基准价=A×Q1+B×Q2,Q2=1-Q1,Q1的取值范围为10%,15%,20%,25%,30%; Q1值由招标人在网上开标大厅中随机抽取确定。评标价等于评标基准价的得满分;偏离评标基准价的相应扣减得分。招标人可以参照发改价格(2007)670号文确定最高投标限价。<br>计算算术平均值A时，若7≤有效投标文件＜10 家时，应去掉其中的一个最高价和一个最低价；若有效投标文件≥10家，应去掉其中的二个最高价和二个最低价。<br>评标委员会在评标报告签字后,上述方法四的评标基准价不因招投标当事人质疑、投诉、复议以及其他任何情形而改变,但评标过程中的计算错误可作调整。<br>投标报价等于评标基准价的得满分；偏离评标基准价的，投标报价每高于评标基准价1%扣0.1分，投标报价每低于评标基准价1%扣0.1分，偏离不足1%的，用插入法计算。<br>6.5监理设施与设备（满分8分）<br>现场常备设备满足工程检测：水准仪、经纬仪、全站仪、回弹仪、测距仪、游标卡尺、电脑、打印机得8分，每少一项扣1分，扣完为止。（以发票为准）(满分8分)<br>6.6企业业绩（满分4分）<br>2015年04月1日以来企业承担过单项合同造价在10000万元及以上市政工程监理的得4分，满分4分。（提供中标通知书、监理合同、竣工验收证明，三者缺一不可。时间以竣工验收证明为准，造价以监理合同为准，提供的证明材料必须能反映出相关数据和内容，否则视为未提供。）（满分4分）<br>6.7企业信用分评分标准（满分2分）<br>信用评价分=监管部门年度信用评价结果×2%。（满分2分）<br><br>备注：<br>1、评分细则中涉及的企业及相关人员的资质证书（注册证书、毕业证书）和业绩证明材料（中标通知书、监理合同、竣工验收证明）等，以 “e路阳光”交易平台中录入信息为准。<br>2、监理人员注册证书上的监理单位名称必须与投标人名称一致，不一致的不得分。<br>3、总监与监理人员不得重复得分。<br>4、各投标人提供的资料必须是真实的，如在评标过程中发现有弄虚作假行为，取消其投标资格，如其骗取中标，将取消其中标资格。<br>5、本标段采用监理大纲评分点横向暗标评审，投标人应按招标文件设置的评分点分别编辑。监理大纲每项评分按梯次打分，除被评标委员会认定存在重大偏差外，监理大纲各项评审要点得分不应低于该评审要点满分的70%。监理大纲为各评委独立评分，计分时取各评委评分中去掉一个最高分和一个最低分的平均值为某个投标企业监理大纲的最终得分（保留2位小数）。<br>编制要求：投标文件中的“监理大纲”不得出现可识别投标人身份的任何字符和徽标（包括文字、符号、图案、标识、标志、人员姓名、企业名称、投标人独享的企业标准或编号等），相关人员姓名应以职务或职称代替。  </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    7.&nbsp;发布公告的媒介
+                </td>
+            </tr>
+
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>江苏建设工程招标监管网 南京市公共资源交易中心网 </span>
+                </td>
+            </tr>
+            <tr><td colspan="2" align="left" style="line-height: 32px; font-size: 18px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本公告发布日期从 <span>2020年5月20日17时26分到 <span>2020年5月27日17时26分</span>为止</span></td></tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    8.&nbsp;其他
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" colspan="2" align="left">
+                    <table>
+                        <tbody><tr>
+                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td align="left" style="line-height: 32px; font-size: 18px">
+                                8.1、本工程采用远程不见面开标模式。投标人应在投标截止时间前登录招标文件载明的“网上开标大厅”网址，按系统提示完成开标流程。因投标人自身设施故障或自身原因导致无法完成投标的，由投标人自行承担后果。<br>8.2、投标人资质等级及范围：具备建设行政主管部门颁发的市政公用工程甲级(含)以上或监理综合资质。<br>8.3、投标人的单位名称必须与企业营业执照及资质证书上的单位名称一致。<br>8.4、本项目为电子招投标，投标人需从“e路阳光”信用平台中选择相应的扫描件编入投标文件中。投标人应及时更新“e路阳光”信用平台信息，确保相关材料及时有效，否则将导致资审不通过或者在评标打分中不得分。<br>8.5、资格审查时，若投标人或项目负责人是被红牌、黄牌警示的单位和责任人，并在警示期内，将作资格审查不通过处理（红、黄牌警示信息均以南京市公共资源交易中心网上发布的信息为准）。 <br>8.6、投标申请人必须提供拟投入本工程项目总监与投标申请人签订的有效劳动合同、社保机构出具的近半年（2019年10月-2020年3月）投标申请人为其缴纳的养老保险缴费证明材料（并加盖社保中心章或社保中心参保缴费证明电子专用章），若项目总监属企业退休人员、现役军人等客观原因无法提供养老保险金缴费证明，必须在“澄清答疑”环节中向招标人提出具体情况，招标人在“澄清答疑”环节中给予明确答复，否则一律按未提供养老保险金缴费证明材料处理。疫情期间执行国家、省市相关政策。对提供材料中出现投标单位为项目负责人缴纳金额为0或者非到帐状态等情况，应视为有效。以上资料原件的扫描件均需上传至投标文件中，否则将不能通过资格审查。<br>8.7、本次招标对总监理工程师、专业监理工程师、监理员的从业要求需符合《建设工程监理规范》和江苏省建设行政主管部门有关规定。对投标人拟派监理工程师及监理员的要求：最低配备1名总监理工程师；2名监理工程师；5名监理员；共8人。<br>8.8、投标的总监理工程师无在监工程。（符合并提供承诺书，未提供承诺书或总监有在监项目的作为资格审查不通过处理，承诺书格式自拟，并上传至投标函附录。）<br>8.9、本公告发布时间即为招标文件的网上开始下载时间，投标人自行下载招标文件。
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px; color:#333; font-weight:bold;" colspan="2" align="left">
+                    9.&nbsp;联系方式
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;招&nbsp;&nbsp;标&nbsp;&nbsp;人：南京江北环保产业发展有限公司
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    代理机构：江苏中衡工程项目管理咨询有限公司
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址：南京市浦口区兰花路8号
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址：南京市建邺区奥体大街68号新城科技园研发总部园3号楼8楼
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编：210000
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编：210000
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联&nbsp;&nbsp;系&nbsp;&nbsp;人：巩工
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    联&nbsp;&nbsp;系&nbsp;&nbsp;人：戚成珍
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：025-68558218
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17366222771
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;真：/
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    传&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;真：/
+                </td>
+            </tr>
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮件：/
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    电子邮件：/
+                </td>
+            </tr>
+
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开户银行：
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    开户银行：招商银行南京分行五台山支行
+                </td>
+            </tr>
+
+            <tr>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;账&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;号：
+                </td>
+                <td style="line-height: 32px; font-size: 18px;" align="left">
+                    账&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;号：125905334910902
+                </td>
+            </tr>
+
+        </tbody>
+    </table></div>
+							</div>
+							<div id="attach" style="display:none">
+								附件：</div>
+							<div style="font-size:16px;">
+								</div>
+							<div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1591943437862">
+								<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+								<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+								<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+								
+								<!-- <a href="#" class="bds_more" data-cmd="more"></a>
+								<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+								<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a> -->
+							</div>							
+							<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+						</div>
+		</div>
+	</div>
+	<div id="footer"><div class="foot">
+    <span class="foot_img"></span>
+	<span class="foot_bz">
+		<a href="http://bszs.conac.cn/sitename?method=show&amp;id=1423BCD6E0A846DFE053022819AC5DAF">
+			<img src="/njweb/images/blue_error.png">
+		</a>
+	</span>
+    <div class="foot_cont">
+		主办单位：南京市公共资源交易中心&nbsp;&nbsp;&nbsp;&nbsp;
+		南京市公共资源交易中心版权所有&nbsp;&nbsp;&nbsp;&nbsp;
+		
+					<a href="/njweb/wzdt/20180418/4086527f-7367-4ec8-89f5-7539b622f4c0.html" style="color:#333;" target="_blank">网站地图</a>                    
+				&nbsp;&nbsp;&nbsp;&nbsp;
+		
+					<a href="/njweb/lxwm/20180418/d9519c04-9c52-4310-a52b-7222e7098a25.html" style="color:#333;" target="_blank">联系我们</a>                    
+				<br>
+		<a href="http://www.beian.miit.gov.cn" target="_blank" style="color:#666666;">苏ICP备05004952号-7</a><span> 网站标识码：3201000077</span><br>
+		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32010502010155" target="_blank" style="color:#666666;">
+			<span style="vertical-align:middle;"><img src="/njweb/images/beian.png"></span>
+			苏公网安备 32010502010155号
+		</a>
+	</div>
+    <div style="padding-top:18px;">
+		<a href="http://121.43.68.40/exposure/jiucuo.html?site_code=3201000077&amp;url=http%3a%2f%2fnjggzy.nanjing.gov.cn%2fnjweb%2f" target="_blank"><img src="/njweb/images/jiucuo.png"></a>
+	</div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?954d9389eb50ccb1d6b199af137f0edd";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+	<script type="text/javascript">
+        $("#footer").load("/njweb/footer.html");
+    </script>
+	<script src="/njweb/js/lib/jquery.placeholder.min.js"></script>
+	<script src="/njweb/js/common.js"></script>
+	<script src="/njweb/js/pageView1.js"></script>
+	<script>
+		if($(".attach2").eq(0).html()){
+
+		}else{
+			$("#attach").attr("style","display:none");
+		}
+	</script>
+
+
+</body></html>

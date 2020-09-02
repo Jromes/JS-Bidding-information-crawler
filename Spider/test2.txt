@@ -1,0 +1,238 @@
+<html lang="zh-CN"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+	<meta name="SiteName" content="南京市公共资源交易平台">
+    <meta name="SiteDomain" content="http://njggzy.nanjing.gov.cn">
+    <meta name="SiteIDCode" content="3201000077">
+    <meta name="ColumnName" content="中标公示">
+			<meta name="ColumnDescription" content="">
+	<meta name="ColumnKeywords" content="">
+	<meta name="ColumnType" content="">
+    <title>南京市公共资源交易平台</title>
+    <link rel="stylesheet" href="/njweb/css/common.css">
+    <link rel="stylesheet" href="/njweb/css/buildService.css">
+	<link rel="stylesheet" href="/njweb/css/subpage.css">
+    <link rel="stylesheet" href="/njweb/css/pagination.css">
+	<link href="/njweb/js/My97DatePicker/skin/WdatePicker.css" rel="stylesheet" type="text/css">
+    <script src="https://hm.baidu.com/hm.js?954d9389eb50ccb1d6b199af137f0edd"></script><script src="/njweb/js/lib/jquery-1.11.0.min.js"></script>
+	<script src="/njweb/js/jquery.pagination.js"></script>
+	<script src="/njweb/js/ServiceUtil.js"></script>
+	<script src="/njweb/js/webBuilderCommon.js"></script>
+
+   <link rel="stylesheet" href="/njweb/css/webBuilderCommonGray.css"><link href="http://njggzy.nanjing.gov.cn/njweb/js/My97DatePicker/skin/WdatePicker.css" rel="stylesheet" type="text/css"></head>
+<body>
+	<!-- header -->
+	<div id="header"><!-- header -->
+<div class="ewb-header">
+   	<div class="ewb-container">
+   	    <div class="ewb-row">
+            <!-- logo -->
+   	        <div class="ewb-logo l">
+   	            <a href="/njweb/"><img src="/njweb/images/logo.png" alt=""></a>
+   	        </div>
+            <div class="ewb-hdr r">
+                <div class="clearfix">
+                    <div class="ewb-hdr-link r">
+                        <a href="http://njggzy.nanjing.gov.cn/epointbidder" target="_blank" class="l">登录</a><span class="ewb-hdr-sp l">丨</span><a href="http://njggzy.nanjing.gov.cn/epointbidder/huiyuaninfomis2/pages/huiyuanregister/register" target="_blank" class="l">注册</a><span class="ewb-hdr-sp l">丨</span><a href="/njweb/" class="l">回到首页</a>
+                        <span class="ewb-hdr-sp l">丨</span>
+						
+									<a href="/njweb/jyfw/079009/20151125/9f7fc16b-ad35-4d48-94a8-e3cf5c9104b2.html" class="ewb-hdr-hotline l" target="_blank">咨询热线</a>                    
+								<span class="ewb-hdr-sp l">丨</span>
+						
+									<a href="/njweb/jyfw/079001/workGuide.html" class="l">场所指引</a>                    
+								</div>
+                </div>
+                <div class="clearfix">
+                    <div class="ewb-hdr-search r">
+                        <input type="text" class="ewb-hdr-txt l" value="请输入关键字查询" id="qwjs" onfocus="if(this.value=='请输入关键字查询'){this.value=''}" onblur="if(this.value==''){this.value='请输入关键字查询'}">
+                        <button type="button" class="ewb-hdr-btn l" onclick="searchqwjs();"></button>
+                    </div>
+                </div>
+            </div>
+   	    </div>
+   	</div>
+</div>
+<div class="ewb-container">
+	
+				<a href="/njweb/jywkd/tradeMicroExpress.html">
+					<img src="/njweb/images/banner01.jpg" id="njthpc" style="display:none;">
+				</a>
+			</div>
+<!-- nav -->
+<div class="ewb-nav ewb-container">
+    <ul class="ewb-row">
+		
+		<li class="l">
+				 
+										<a href="/njweb/fjsz/buildService1.html" class="ewb-n-link ewb-n-icon2 " style="color: #fff;border-top: 1px solid #f69929;border-bottom: 4px solid #e28722;background: url(/njweb/images/nav_icon2h.png) 67px 10px no-repeat;background-color: #f69929;">房建市政</a> 
+										</li>
+		
+		<li class="l">
+			
+										<a href="/njweb/gchw/goods.html" class="ewb-n-link ewb-n-icon4 ">工程货物</a> 
+										</li>
+		
+		<li class="l">
+			
+										<a href="/njweb/jtsw/traffic.html" class="ewb-n-link ewb-n-icon3 ">交通水务</a> 
+										</li>
+		
+        <li class="l">
+		 
+										<a href="/njweb/zfcg/goverPurchase.html" class="ewb-n-link ewb-n-icon1 ">政府采购</a> 
+										</li>
+        
+        
+        <li class="l">
+            
+										<a href="/njweb/gycq/stateProperty.html" class="ewb-n-link ewb-n-icon5 ">国有产权</a> 
+										</li>
+		
+        <li class="l">
+            
+										<a href="/njweb/tdkc/landmineral.html" class="ewb-n-link ewb-n-icon6 ">土地矿产</a> 
+										</li>
+        <li class="l">
+            
+										<a href="/njweb/tlhy/railway.html" class="ewb-n-link ewb-n-icon7 ">铁路航运</a> 
+										</li>
+        
+        <li class="ewb-last l">
+            
+										<a href="/njweb/fzx/fencenter.html" class="ewb-n-link ewb-n-icon8 ">分中心</a> 
+										</li>
+    </ul>
+</div>
+
+<script>
+	function searchqwjs(){
+		var qwjs = $("#qwjs").val();
+		if(qwjs&&qwjs!="请输入关键字查询"){
+			window.open("/njweb/search/fullsearch.html?wd="+encodeURIComponent(qwjs));
+		}else{
+			alert("关键词不能为空！");
+		}
+	}
+</script>
+<script src="/njweb/js/head.js"></script>
+
+</div>
+	<script type="text/javascript">
+        $("#header").load("/njweb/header.html");
+    </script>
+	<!-- main -->
+	<div class="ewb-container">
+		<div class="ewb-location">
+			<a href="/njweb/">首页</a>  &gt;  <span class="ewb-yellow" id="viewGuid" value="cms_068002">房建市政</span>
+		</div>
+		<div class="ewb-main">
+			<div class="ewb-menu clearfix">
+				<div class="ewb-menu-l">
+					<ul class="ewb-menu-items">
+						<li class="ewb-menu-item">
+							<a href="/njweb/fjsz/buildService1.html">招标公告</a>
+							<i class="ewb-menu-icon"></i>
+						</li>
+						<li class="ewb-menu-item cur">
+							<a href="/njweb/fjsz/068002/buildService2.html">中标公示</a>
+							<i class="ewb-menu-icon"></i>
+						</li> 
+						<li class="ewb-menu-item">
+							<a href="/njweb/fjsz/068003/buildService3.html">中标公告</a>
+							<i class="ewb-menu-icon"></i>
+						</li>
+						<li class="ewb-menu-item">
+							<a href="/njweb/fjsz/068005/buildService5.html">其他公示</a>
+							<i class="ewb-menu-icon"></i>
+						</li>
+						<li class="wb-tree-items haschild wb-tree">
+							<h3 class="wb-tree-node first" style="font-weight:normal;"> 
+								 <a href="#" class="wb-tree-tt">信用信息公开</a>
+							</h3>
+							<ul class="wb-tree-sub">
+								<li class="ewb-menu-item">
+									<a href="javascript:void(0);" onclick="changedanwei();">单位</a>
+									<i class="ewb-menu-icon"></i>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					
+					<ul class="ewb-evalu-items clearfix">
+						<li class="ewb-evalu-item">
+							<a target="_blank" class="ewb-evalu" href="http://221.226.86.139/njxxnew/ztbinfo/loginnjmbmt.aspx">
+								明标明投信用评价
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="ewb-menu-r">
+					<div class="ewb-comp tab-view">
+					    <div class="ewb-comp-hd clearfix" data-role="head">
+					        <span class="ewb-comp-tt l" data-role="tab" data-target="tab-aa"><a href="javascript:void(0);" onmouseover="searchlistfj2('068002001',this);">工程类</a></span>
+					        <span class="ewb-comp-tt l current" data-role="tab" data-target="tab-bb"><a href="javascript:void(0);" onmouseover="searchlistfj2('068002002',this);">服务类</a></span>
+					        <div class="ewb-info-search clearfix">
+								<input type="text" placeholder="请输入关键词查询" id="keyword">
+								<button class="ewb-high" onclick="javascript:void(window.location.href='/njweb/fjsz/068002/buildService2.html?type=gjss')">高级</button>
+								<button onclick="searchlistfjsz();"></button>
+							</div>
+					    </div>						
+					    <div data-role="body" class="ewb-comp-bd" id="content"><div class="ewb-info-item clearfix" id="headtitle"><div class="l" style="margin-left:44px;margin-top:15px;font-weight:bold;">标段编号</div><div class="l" style="margin-left:220px;margin-top:15px;font-weight:bold;">项目名称</div><div class="l" style="margin-left:278px;margin-top:15px;font-weight:bold;">标段名称</div><div class="l" style="margin-left:136px;margin-top:15px;font-weight:bold;">发布日期</div></div><ul class="ewb-info-items" id="showList" style="display:default"><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200610/7b126159-37e9-45ca-a3ae-3b85fbd94d7d.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BPK200082-02FG" class="ewb-info-top2">BPK200082-02FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="主城区基础市政道路综合整治工程" class="ewb-info-top2" style="text-align:left;">主城区基础市政道路综合整治工程</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="监理" class="ewb-info-top2">监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-10</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200610/0f484dfb-a40a-41b9-aa2f-7f3ce7aabf39.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BLS200304-01FG" class="ewb-info-top2">BLS200304-01FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="溧水区毓秀路综合整治工程项目" class="ewb-info-top2" style="text-align:left;">溧水区毓秀路综合整治工程项目</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="监理" class="ewb-info-top2">监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-10</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200610/365b5b44-14f2-45ae-894c-4fa243b632b8.html');"><div class="ewb-info-num2" style="width:160px;"><p title="HNJ180969-37FG" class="ewb-info-top2">HNJ180969-37FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="南京至句容城际轨道交通工程" class="ewb-info-top2" style="text-align:left;">南京至句容城际轨道交通工程</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="轨道施工监理D.S06.X-TJ11标" class="ewb-info-top2">轨道施工监理D.S06.X-TJ11标</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-10</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200610/66ee5d52-d2b2-4b44-b7b4-61353bea0849.html');"><div class="ewb-info-num2" style="width:160px;"><p title="AGC200123-08FG" class="ewb-info-top2">AGC200123-08FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="砖墙镇永胜圩万亩高效水产生态养殖基地项目" class="ewb-info-top2" style="text-align:left;">砖墙镇永胜圩万亩高效水产生态养殖基地项目</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="5号区域监理" class="ewb-info-top2">5号区域监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-10</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200610/83e608f3-da9a-407a-b12e-42fb897893d0.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BYH190308-03FG" class="ewb-info-top2">BYH190308-03FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="板桥新城大方路一期道路建设工程" class="ewb-info-top2" style="text-align:left;">板桥新城大方路一期道路建设工程</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="监理" class="ewb-info-top2">监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-10</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200609/2af87eca-d234-48f9-acb6-4d7413fe87c2.html');"><div class="ewb-info-num2" style="width:160px;"><p title="AJN190312-04FG" class="ewb-info-top2">AJN190312-04FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="江宁开发区2017G57地块配套幼儿园项目" class="ewb-info-top2" style="text-align:left;">江宁开发区2017G57地块配套幼儿园项目</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="监理" class="ewb-info-top2">监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-09</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200609/ac69878f-7d3c-4abe-9463-4c7108020492.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BNJ200141-02FG" class="ewb-info-top2">BNJ200141-02FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="城市桥梁护栏升级改造工程（第一批）" class="ewb-info-top2" style="text-align:left;">城市桥梁护栏升级改造工程（第一批）</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="监理" class="ewb-info-top2">监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-09</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200609/5b98ce5d-deee-42ec-bc9b-95b3120875c6.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BJN200196-02FG" class="ewb-info-top2">BJN200196-02FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="南京禄口新城湖头雨水泵站扩建项目" class="ewb-info-top2" style="text-align:left;">南京禄口新城湖头雨水泵站扩建项目</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="监理" class="ewb-info-top2">监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-09</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200609/883d9422-3dd0-4cd2-8200-1b4d6451f42c.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BPK200060-04FG" class="ewb-info-top2">BPK200060-04FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="浦口区江浦街道 2020 年人居环境提升工程" class="ewb-info-top2" style="text-align:left;">浦口区江浦街道 2020 年人居环境提升工程</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="一标段工程总承包监理" class="ewb-info-top2">一标段工程总承包监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-09</p></div></li><li class="ewb-info-item2 clearfix yclist" style="display:default" onclick="window.open('/njweb/fjsz/068002/068002002/20200609/b20e2167-5f0b-42f8-a228-7aa14a034f3b.html');"><div class="ewb-info-num2" style="width:160px;"><p title="BPK200060-03FG" class="ewb-info-top2">BPK200060-03FG</p></div><div class="ewb-info-num2" style="width:405px;"><p title="浦口区江浦街道 2020 年人居环境提升工程" class="ewb-info-top2" style="text-align:left;">浦口区江浦街道 2020 年人居环境提升工程</p></div><div class="ewb-info-num2" style="width:250px;margin:0 15px;"><p title="二标段工程总承包监理" class="ewb-info-top2">二标段工程总承包监理</p></div><div class="ewb-info-num2" style="width:120px;"><p class="ewb-info-top2">2020-06-09</p></div></li></ul><div style="text-align:center;margin-top:25px;"><div id="divInfoReportPage" class="pagination showlistdisplay" style="display:default"><a class="prev ewb-fan">&lt; 上页</a><a class="pageIdx ewb-fan">1</a><span class="current pageIdx ewb-fan">2</span><a class="pageIdx ewb-fan">3</a><a class="pageIdx ewb-fan">4</a><a class="pageIdx ewb-fan">5</a><a class="pageIdx ewb-fan">6</a><a class="pageIdx ewb-fan">7</a><a class="next ewb-fan">下页  &gt;</a><span class="pg_maxpagenum">2/524</span><span class="pg_zhuandao">转到</span><input type="text" id="pgGoToPagingNoJ2K8w" class="pg_num_input"><a class="pg_gobtn ewb-fan">GO</a><table width="100%" border="0" cellpadding="0" cellspacing="0" id="divInfoReportPageContent"></table></div></div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer"><div class="foot">
+    <span class="foot_img"></span>
+	<span class="foot_bz">
+		<a href="http://bszs.conac.cn/sitename?method=show&amp;id=1423BCD6E0A846DFE053022819AC5DAF">
+			<img src="/njweb/images/blue_error.png">
+		</a>
+	</span>
+    <div class="foot_cont">
+		主办单位：南京市公共资源交易中心&nbsp;&nbsp;&nbsp;&nbsp;
+		南京市公共资源交易中心版权所有&nbsp;&nbsp;&nbsp;&nbsp;
+		
+					<a href="/njweb/wzdt/20180418/4086527f-7367-4ec8-89f5-7539b622f4c0.html" style="color:#333;" target="_blank">网站地图</a>                    
+				&nbsp;&nbsp;&nbsp;&nbsp;
+		
+					<a href="/njweb/lxwm/20180418/d9519c04-9c52-4310-a52b-7222e7098a25.html" style="color:#333;" target="_blank">联系我们</a>                    
+				<br>
+		<a href="http://www.beian.miit.gov.cn" target="_blank" style="color:#666666;">苏ICP备05004952号-7</a><span> 网站标识码：3201000077</span><br>
+		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32010502010155" target="_blank" style="color:#666666;">
+			<span style="vertical-align:middle;"><img src="/njweb/images/beian.png"></span>
+			苏公网安备 32010502010155号
+		</a>
+	</div>
+    <div style="padding-top:18px;">
+		<a href="http://121.43.68.40/exposure/jiucuo.html?site_code=3201000077&amp;url=http%3a%2f%2fnjggzy.nanjing.gov.cn%2fnjweb%2f" target="_blank"><img src="/njweb/images/jiucuo.png"></a>
+	</div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?954d9389eb50ccb1d6b199af137f0edd";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+	<script type="text/javascript">
+        $("#footer").load("/njweb/footer.html");
+    </script>
+	<script src="/njweb/js/lib/jquery.placeholder.min.js"></script>
+	<script src="/njweb/js/lib/tabview.js"></script>
+	<script src="/njweb/js/common.js"></script>
+	<script src="/njweb/js/workGuide.js"></script>
+	<script src="/njweb/js/lib/tree.js"></script>
+	<script src="/njweb/js/page.js"></script>
+	<script src="/njweb/js/webBuilderCommon.js"></script>
+	<script src="/njweb/js/buildService2.js"></script>
+	<script src="/njweb/js/pageView1.js"></script>
+	<script language="javascript" type="text/javascript" src="/njweb/js/My97DatePicker/WdatePicker.js"></script>
+
+
+<div id="_my97DP" style="position: absolute; top: -1970px; left: -1970px;"><iframe style="width: 186px; height: 198px;" src="http://njggzy.nanjing.gov.cn/njweb/js/My97DatePicker/My97DatePicker.htm" frameborder="0" border="0" scrolling="no"></iframe></div></body></html>
